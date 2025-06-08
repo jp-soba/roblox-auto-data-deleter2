@@ -1,0 +1,11 @@
+name = "roblox-auto-data-deleter2"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[observability.logs]
+enabled = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "roblox-auto-data-deleter"                      # database name
+database_id = "7c81ca91-9e3f-49d2-b86e-6c4973f942b3" # database id  
